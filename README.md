@@ -38,11 +38,12 @@ Please cite Caffe in your publications if it helps your research:
 
 ## Citation of Deep CORAL
 
-Please cite Caffe in your publications if it helps your research:
+Please cite Deep CORAL in your publications if it helps your research:
 
-@inproceedings{dcoral,
-  title={Deep CORAL: Correlation Alignment for Deep Domain Adaptation},
-  author={Baochen Sun and Kate Saenko},
-  booktitle={ECCV 2016 Workshops},
-  year={2016}
-}
+    @inproceedings{dcoral, 
+       title={Deep CORAL: Correlation Alignment for Deep Domain Adaptation}, 
+       author={Baochen Sun and Kate Saenko}, 
+       booktitle={ECCV 2016 Workshops}, 
+       year={2016} 
+       }
+
