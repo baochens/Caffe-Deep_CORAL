@@ -22,7 +22,7 @@ Framework development discussions and thorough bug reports are collected on [Iss
 
 Happy brewing!
 
-## License and Citation
+## License and Citation of Caffe
 
 Caffe is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
 The BVLC reference models are released for unrestricted use.
@@ -35,3 +35,14 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+## Citation of Deep CORAL
+
+Please cite Caffe in your publications if it helps your research:
+
+@inproceedings{dcoral,
+  title={Deep CORAL: Correlation Alignment for Deep Domain Adaptation},
+  author={Baochen Sun and Kate Saenko},
+  booktitle={ECCV 2016 Workshops},
+  year={2016}
+}
